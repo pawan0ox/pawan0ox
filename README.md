@@ -1,7 +1,7 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://pawan0ox.io)
 <h1 align="center">Hi 👋, I'm Pawan</h1>
 <h3 align="center">A student intrested on programming from Nepal.</h3>
-<img align="right" alt=coding width="400" src"C:\Users\acer\Downloads\code.mp4">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/3Eqa.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/pawan0ox](https://github.com/pawan0ox)
 
