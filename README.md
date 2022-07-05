@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **paudelpwn@gmail.com**
 
-- 📄 Know about my experiences [I am currently a student and I am learning.](I am currently a student and I am learning.)
+ I am currently a student and I am learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
